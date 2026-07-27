@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://lowkey-egy.com/sitemap.xml
